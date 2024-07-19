@@ -5,18 +5,18 @@ Nasa Picture of the Day Web App
 
 # Screenshots
 
-![](/screenshots/nasa1.png)
+![](/screenshots/nasa1.png "Loads picture of current day")
 
 
 
 
 
 
-![](/screenshots/nasa2.png)
+![](/screenshots/nasa2.png "Calendar")
 
 
 
 
 
 
-![](/screenshots/nasa3.png)
+![](/screenshots/nasa3.png "Fetching image of calendar input")
